@@ -1,0 +1,11 @@
+https\t4is_uv_mx\saludos\ObjectFactory.class
+https\t4is_uv_mx\saludos\SaludarResponse.class
+https\t4is_uv_mx\saludos\BorrarSaludoRequest.class
+https\t4is_uv_mx\saludos\ModificarSaludoRequest.class
+META-INF\JAXB\episode_xjc.xjb
+https\t4is_uv_mx\saludos\BuscarSaludosResponse$Saludos.class
+https\t4is_uv_mx\saludos\BuscarSaludosResponse.class
+https\t4is_uv_mx\saludos\SaludarRequest.class
+https\t4is_uv_mx\saludos\package-info.class
+https\t4is_uv_mx\saludos\BorrarSaludoResponse.class
+https\t4is_uv_mx\saludos\ModificarSaludoResponse.class
